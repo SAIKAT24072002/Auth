@@ -15,9 +15,8 @@ app.use(cors({
 
 app.use('/api/v1/user',user)
 
-app.get("/",(req,res) =>{
-    res.send("Server is running.......")
-
+app.get("/",()=>{
+    res.send("Server is Running......")
 });
 
 
