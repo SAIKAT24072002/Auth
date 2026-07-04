@@ -15,6 +15,11 @@ app.use(cors({
 
 app.use('/api/v1/user',user)
 
+app.get("/",(req,res) =>{
+    res.send("Server is running.......")
+
+});
+
 
 app.listen(process.env.PORT,()=>{
     console.log(`server is Listning on port no ${process.env.PORT}`)
