@@ -3,7 +3,7 @@
 Backend Authentication Service built with **Node.js**, **Express.js (v5)**, **MongoDB**, **Mongoose**, and **JSON Web Tokens (JWT)**.
 
 ---
-- 📄 **Published Postman Documentation:** [View Live Postman Documentation](https://www.postman.com/saikatkhamrai0702-6405762/workspace/4a9a95ff-50b3-40f6-b1cc-c6a82de4dc2d/collection/56379725-c0b6e4d0-262e-4629-941d-cf8f9dba8210?action=share&source=copy-link&creator=56379725)
+- 📄 **Published Postman Documentation:** https://www.postman.com/saikatkhamrai0702-6405762/workspace/4a9a95ff-50b3-40f6-b1cc-c6a82de4dc2d/collection/56379725-c0b6e4d0-262e-4629-941d-cf8f9dba8210?action=share&source=copy-link&creator=56379725
 
 
 ## 🔗 Project Links & Resources
